@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Andrius. I’m an iOS Developer at Pipedrive, working on our awesome mobile client. In 2015 I’ve decided to dramatically change my work. IT and software development was interesting for me for the whole life but since I had no CS-related education, I thought it is impossible to become a developer. Nevertheless, I became a software tester and in 2 years started to work as a software developer.
+
+Development wise the most interesting topics for me are: SwiftUI, Combine, Accessibility, Siri integration. I'm open for any collaboration with side projects of other developers, since I'm looking for a ways to improve my skills outside of my regular work. Do not hesitate to ping me if you have any questions/advises/propositions
+
 
 <!--
 **Shiaulis/Shiaulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
